@@ -1,6 +1,6 @@
 # Estudo de Caso Dimensional
 
-📌 Resumo do Projeto
+📌 
 Este projeto é um estudo de caso sobre modelagem dimensional utilizando **Apache Spark**. Ele realiza a extração, transformação e carga (ETL) de um dataset armazenado no formato **Parquet**, criando tabelas dimensionais a partir de um conjunto de dados estruturado.
 
 🚀 Tecnologias Utilizadas
